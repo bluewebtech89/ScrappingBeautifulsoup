@@ -1,0 +1,33 @@
+pcbetadeMac-2:WebScraping Zhao$ python scrapping_webpage_Beautiful.py
+{u'DES MOINES, IA': 4, u'ANKENY, IA': 1, u'HIBBING, MN': 1, u'WAUKEE, IA': 1, u'URBANDALE, IA': 1, u'SERGEANT BLUFF, IA': 1, u'DELAWARE TWP, IA': 1}
+{u'White': 8, u'Black': 2}
+pcbetadeMac-2:WebScraping Zhao$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
